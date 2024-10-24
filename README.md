@@ -1,3 +1,8 @@
 # tic-tac-toe-ci
 
-This Project is basically creating a CI/CD pipeline for the Tic-Tac-Toe application using Jenkins. 
+Aim: To create a CI/CD pipeline for a Tic-Tac-Toe game. 
+
+Tools used: 
+1. AWS EC2
+2. Jenkins
+3. 
